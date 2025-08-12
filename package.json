@@ -1,0 +1,24 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "main": "chatbot.js",
+  "dependencies": {
+    "openai": "^5.12.2",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManasiLangore/women-safety-chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManasiLangore/women-safety-chatbot/issues"
+  },
+  "homepage": "https://github.com/ManasiLangore/women-safety-chatbot#readme",
+  "description": ""
+}
